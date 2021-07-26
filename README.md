@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Solution URL](https://www.frontendmentor.io/solutions/testimonials-grid-section-cI2R5lQ2N)
+- [Live Site URL](https://tttinh.github.io/frontendmentor_008/)
 
 ## My process
 
